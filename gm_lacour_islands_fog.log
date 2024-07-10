@@ -1,0 +1,275 @@
+
+
+
+materialPath: E:\Steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading e:\steam\steamapps\common\garrysmod\garrysmod\addons\lacour islands\src\gm_lacour_islands_fog.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Patching WVT material: maps/gm_lacour_islands_fog/nature/blenddirtgrass001a_wvt_patch
+Patching WVT material: maps/gm_lacour_islands_fog/textures/isemenuk/grass/grass001_wvt_patch
+Patching WVT material: maps/gm_lacour_islands_fog/nature/blendsandsand008b_antlion_wvt_patch
+Patching WVT material: maps/gm_lacour_islands_fog/textures/isemenuk/grass/blendgrassgravelnew_wvt_patch
+Patching WVT material: maps/gm_lacour_islands_fog/dev/dev_blendmeasure_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (1)
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Occluder "" straddles multiple areas. This is invalid!
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 1844 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (2)
+writing e:\steam\steamapps\common\garrysmod\garrysmod\addons\lacour islands\src\gm_lacour_islands_fog.prt...
+Building visibility clusters...
+done (1)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day02_05_hdr*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day02_05_hdr*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+WARNING: Map using power 4 displacements, terrain physics cannot be compressed, map will need additional memory and CPU.
+done (7) (3411128 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 16514 texinfos to 8590
+Reduced 451 texdatas to 360 (15155 bytes to 11981)
+Writing e:\steam\steamapps\common\garrysmod\garrysmod\addons\lacour islands\src\gm_lacour_islands_fog.bsp
+26 seconds elapsed
+
+
+
+2 threads
+reading e:\steam\steamapps\common\garrysmod\garrysmod\addons\lacour islands\src\gm_lacour_islands_fog.bsp
+reading e:\steam\steamapps\common\garrysmod\garrysmod\addons\lacour islands\src\gm_lacour_islands_fog.prt
+3315 portalclusters
+8293 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 67000 visible clusters (4.87%)
+Total clusters visible: 1376925
+Average clusters visible: 415
+Building PAS...
+Average clusters audible: 1537
+visdatasize:1263067  compressed from 2758080
+writing e:\steam\steamapps\common\garrysmod\garrysmod\addons\lacour islands\src\gm_lacour_islands_fog.bsp
+24 minutes, 8 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading e:\steam\steamapps\common\garrysmod\garrysmod\addons\lacour islands\src\gm_lacour_islands_fog.bsp
+PREP OK
+Loaded alpha texture materials\Models\props_c17\fence_alpha.vtf
+Loaded alpha texture materials\models\props_foliage\tree_deciduous_01a_branches.vtf
+Loaded alpha texture materials\models\props_foliage\tree_deciduous_01a_trunk.vtf
+Loaded alpha texture materials\models\props_foliage\tree_deciduous_01a_leaves.vtf
+Loaded alpha texture materials\models\isemenuk\trees\tree_springers_01a_branches.vtf
+Loaded alpha texture materials\models\isemenuk\trees\tree_springers_01a_leaves.vtf
+Loaded alpha texture materials\models\props_foliage\tree_springers_cards_01.vtf
+Loaded alpha texture materials\Models\props_c17\metaltruss012b.vtf
+Loaded alpha texture materials\Models\props_c17\fence_alpha.vtf
+22771 faces
+6 degenerate faces
+88800648 square feet [12787293184.00 square inches]
+93 Displacements
+838736 Square Feet [120778096.00 Square Inches]
+22765 patches before subdivision
+188623 patches after subdivision
+362 direct lights
+0...1...2...3...4...5...6...7.
+WARNING: Too many light styles on a face at (-3432.000732, -6968.237305, -203.634293)
+..8...9...100...1...2...3...4...5...6...7...8...9...10transfers 18402315, max 1708
+transfer lists: 140.4 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(399884, 359331, 206643)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(90000, 77329, 32969)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(12119, 8249, 2792)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(3188, 2087, 515)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(605, 292, 69)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(166, 74, 14)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(40, 13, 3)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(11, 3, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(3, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0934 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+Computing detail prop lighting : 0...1...2...3...4...5...6...7...8...9...10
+2 of 6 (33% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+0...1...2...3...4...5...6...7...8...9...10Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                 511/4096        24528/196608   (12.5%) 
+brushes               6178/16384       74136/196608   (37.7%) 
+brushsides           51841/163840     414728/1310720  (31.6%) 
+planes               39572/65536      791440/1310720  (60.4%) 
+vertexes             36995/65536      443940/786432   (56.4%) 
+nodes                13584/65536      434688/2097152  (20.7%) 
+texinfos              8590/16384      618480/1179648  (52.4%) 
+texdata                360/8192        11520/262144   ( 4.4%) 
+dispinfos               93/0           16368/0        ( 0.0%) 
+disp_verts            6069/0          121380/0        ( 0.0%) 
+disp_tris             9504/0           19008/0        ( 0.0%) 
+disp_lmsamples     1738112/0         1738112/0        ( 0.0%) 
+faces                22771/65536     1275176/3670016  (34.7%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces            15578/65536      872368/3670016  (23.8%) 
+leaves               14096/65536      451072/2097152  (21.5%) 
+leaffaces            26859/65536       53718/131072   (41.0%) 
+leafbrushes          14285/65536       28570/131072   (21.8%) 
+areas                   43/1024          344/8192     ( 4.2%) 
+surfedges           169246/512000     676984/2048000  (33.1%) 
+edges               107104/256000     428416/1024000  (41.8%) 
+LDR worldlights        362/8192        31856/720896   ( 4.4%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            8/32768          96/393216   ( 0.0%) 
+waterstrips           1868/32768       18680/327680   ( 5.7%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         39441/65536       78882/131072   (60.2%) 
+cubemapsamples           1/1024           16/16384    ( 0.1%) 
+overlays                90/8192        31680/2883584  ( 1.1%) 
+LDR lightdata         [variable]    21440424/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]     1263067/16777216 ( 7.5%) 
+entdata               [variable]     1328519/393216   (337.9%) VERY FULL!
+LDR ambient table    14096/65536       56384/262144   (21.5%) 
+HDR ambient table    14096/65536       56384/262144   (21.5%) 
+LDR leaf ambient     37691/65536     1055348/1835008  (57.5%) 
+HDR leaf ambient     14096/65536      394688/1835008  (21.5%) 
+occluders               14/0             560/0        ( 0.0%) 
+occluder polygons       16/0             192/0        ( 0.0%) 
+occluder vert ind       64/0             256/0        ( 0.0%) 
+detail props          [variable]           1/305172   ( 0.0%) 
+dtl prp lght          [variable]           1/29579    ( 0.0%) 
+HDR dtl prp lght      [variable]           1/4        (25.0%) 
+static props          [variable]           1/87914    ( 0.0%) 
+pakfile               [variable]     5134578/0        ( 0.0%) 
+physics               [variable]     3411128/4194304  (81.3%) VERY FULL!
+physics terrain       [variable]           0/1048576  ( 0.0%) 
+
+Level flags = 1
+
+Total triangle count: 61660
+Writing e:\steam\steamapps\common\garrysmod\garrysmod\addons\lacour islands\src\gm_lacour_islands_fog.bsp
+33 minutes, 53 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading e:\steam\steamapps\common\garrysmod\garrysmod\addons\lacour islands\src\gm_lacour_islands_fog.bsp
+PREP OK
+Loaded alpha texture materials\Models\props_c17\fence_alpha.vtf
+Loaded alpha texture materials\models\props_foliage\tree_deciduous_01a_branches.vtf
+Loaded alpha texture materials\models\props_foliage\tree_deciduous_01a_trunk.vtf
+Loaded alpha texture materials\models\props_foliage\tree_deciduous_01a_leaves.vtf
+Loaded alpha texture materials\models\isemenuk\trees\tree_springers_01a_branches.vtf
+Loaded alpha texture materials\models\isemenuk\trees\tree_springers_01a_leaves.vtf
+Loaded alpha texture materials\models\props_foliage\tree_springers_cards_01.vtf
+Loaded alpha texture materials\Models\props_c17\metaltruss012b.vtf
+Loaded alpha texture materials\Models\props_c17\fence_alpha.vtf
+22771 faces
+6 degenerate faces
+88800648 square feet [12787293184.00 square inches]
+93 Displacements
+838736 Square Feet [120778096.00 Square Inches]
+22765 patches before subdivision
+188623 patches after subdivision
+362 direct lights
+0...1...2...3...4...5...6...7.
+WARNING: Too many light styles on a face at (-3432.000732, -6968.237305, -203.634293)
+..8...9...100...1...2...3...4...5...6...7...8...9...10transfers 18402315, max 1708
+transfer lists: 140.4 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(362375, 325073, 190686)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(80237, 68394, 29778)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(11233, 7574, 2627)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(2904, 1869, 475)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(564, 269, 64)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(153, 68, 13)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(37, 12, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(10, 3, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(3, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0992 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+Computing detail prop lighting : 0...1...2...3...4...5...6...7...8...9...10
+2 of 6 (33% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+0...1...2...3...4...5...6...7...8...9...10Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                 511/4096        24528/196608   (12.5%) 
+brushes               6178/16384       74136/196608   (37.7%) 
+brushsides           51841/163840     414728/1310720  (31.6%) 
+planes               39572/65536      791440/1310720  (60.4%) 
+vertexes             36995/65536      443940/786432   (56.4%) 
+nodes                13584/65536      434688/2097152  (20.7%) 
+texinfos              8590/16384      618480/1179648  (52.4%) 
+texdata                360/8192        11520/262144   ( 4.4%) 
+dispinfos               93/0           16368/0        ( 0.0%) 
+disp_verts            6069/0          121380/0        ( 0.0%) 
+disp_tris             9504/0           19008/0        ( 0.0%) 
+disp_lmsamples     1738112/0         1738112/0        ( 0.0%) 
+faces                22771/65536     1275176/3670016  (34.7%) 
+hdr faces            22771/65536     1275176/3670016  (34.7%) 
+origfaces            15578/65536      872368/3670016  (23.8%) 
+leaves               14096/65536      451072/2097152  (21.5%) 
+leaffaces            26859/65536       53718/131072   (41.0%) 
+leafbrushes          14285/65536       28570/131072   (21.8%) 
+areas                   43/1024          344/8192     ( 4.2%) 
+surfedges           169246/512000     676984/2048000  (33.1%) 
+edges               107104/256000     428416/1024000  (41.8%) 
+LDR worldlights        362/8192        31856/720896   ( 4.4%) 
+HDR worldlights        362/8192        31856/720896   ( 4.4%) 
+leafwaterdata            8/32768          96/393216   ( 0.0%) 
+waterstrips           1868/32768       18680/327680   ( 5.7%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         39441/65536       78882/131072   (60.2%) 
+cubemapsamples           1/1024           16/16384    ( 0.1%) 
+overlays                90/8192        31680/2883584  ( 1.1%) 
+LDR lightdata         [variable]    21440424/0        ( 0.0%) 
+HDR lightdata         [variable]    21440424/0        ( 0.0%) 
+visdata               [variable]     1263067/16777216 ( 7.5%) 
+entdata               [variable]     1328519/393216   (337.9%) VERY FULL!
+LDR ambient table    14096/65536       56384/262144   (21.5%) 
+HDR ambient table    14096/65536       56384/262144   (21.5%) 
+LDR leaf ambient     37691/65536     1055348/1835008  (57.5%) 
+HDR leaf ambient     37180/65536     1041040/1835008  (56.7%) 
+occluders               14/0             560/0        ( 0.0%) 
+occluder polygons       16/0             192/0        ( 0.0%) 
+occluder vert ind       64/0             256/0        ( 0.0%) 
+detail props          [variable]           1/305172   ( 0.0%) 
+dtl prp lght          [variable]           1/29579    ( 0.0%) 
+HDR dtl prp lght      [variable]           1/29579    ( 0.0%) 
+static props          [variable]           1/87914    ( 0.0%) 
+pakfile               [variable]    10066294/0        ( 0.0%) 
+physics               [variable]     3411128/4194304  (81.3%) VERY FULL!
+physics terrain       [variable]           0/1048576  ( 0.0%) 
+
+Level flags = 3
+
+Total triangle count: 61660
+Writing e:\steam\steamapps\common\garrysmod\garrysmod\addons\lacour islands\src\gm_lacour_islands_fog.bsp
+33 minutes, 51 seconds elapsed

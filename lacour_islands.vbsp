@@ -1,0 +1,149 @@
+﻿detail
+{
+	island_grass01
+	{
+		density 300
+		Group1
+		{
+			"alpha" "0"
+			Grass1
+			{
+				"sprite_shape"		"cross"
+				"sprite" "0 0 97 103 512" 
+				"spritesize" "0.5 0.0 19 25"
+				"spriterandomscale" "0.2"
+				"amount" "0.4"
+				"detailOrientation" 	"0"
+				"shape_angle"		"40"
+				"shape_size"		"0.01"
+				//"sway"			"0"
+			}
+			Grass2
+			{
+				"sprite_shape"		"cross"
+				"sprite" "97 0 104 103 512" 
+				"spritesize" "0.5 0.0 16 20"
+				"spriterandomscale" "0.2"
+				"amount" "0.3"
+				"detailOrientation" 	"0"
+				"shape_angle"		"40"
+				"shape_size"		"0.01"
+				//"sway"			"0"
+			}
+			Grass3
+			{
+				"sprite_shape"		"cross"
+				"sprite" "0 103 92 121 512" 
+				"spritesize" "0.5 0.0 19 24"
+				"spriterandomscale" "0.2"
+				"amount" "0.2"
+				"detailOrientation" 	"0"
+				"shape_angle"		"40"
+				"shape_size"		"0.01"
+				//"sway"			"0"
+			}
+			Brush
+			{
+				"sprite_shape"		"cross"
+				"sprite" "219 0 254 248 512" 
+				"spritesize" "0.5 0.0 24 30"
+				"spriterandomscale" "0.2"
+				"amount" "0.1"
+				"detailOrientation" 	"0"
+				"shape_angle"		"40"
+				"shape_size"		"0.01"
+				//"sway"			"0"
+			}
+		}
+		Group3
+		{
+			"alpha" "0.8"
+		}
+		Group2
+		{
+			"alpha" "1"
+		}
+	}
+	island_gravel01
+	{
+		density 300
+		Group1
+		{
+			"alpha" "0"
+			Grass1
+			{
+				"sprite_shape"		"cross"
+				"sprite" "0 0 97 103 512" 
+				"spritesize" "0.5 0.0 19 25"
+				"spriterandomscale" "0.2"
+				"amount" "0.4"
+				"detailOrientation" 	"0"
+				"shape_angle"		"40"
+				"shape_size"		"0.01"
+				//"sway"			"0"
+			}
+			Grass2
+			{
+				"sprite_shape"		"cross"
+				"sprite" "97 0 104 103 512" 
+				"spritesize" "0.5 0.0 16 20"
+				"spriterandomscale" "0.2"
+				"amount" "0.3"
+				"detailOrientation" 	"0"
+				//"sway"			"0"
+			}
+			Grass3
+			{
+				"sprite_shape"		"cross"
+				"sprite" "0 103 92 121 512" 
+				"spritesize" "0.5 0.0 19 24"
+				"spriterandomscale" "0.2"
+				"amount" "0.2"
+				"detailOrientation" 	"0"
+				"shape_angle"		"40"
+				"shape_size"		"0.01"
+				//"sway"			"0"
+			}
+			Brush
+			{
+				"sprite_shape"		"cross"
+				"sprite" "219 0 254 248 512" 
+				"spritesize" "0.5 0.0 24 30"
+				"spriterandomscale" "0.2"
+				"amount" "0.1"
+				"detailOrientation" 	"0"
+				"shape_angle"		"40"
+				"shape_size"		"0.01"
+				//"sway"			"0"
+			}
+		}
+		Group2
+		{
+			"alpha" "1"
+			Grass0
+			{
+				"sprite_shape"		"cross"
+				"sprite" "0 103 92 121 512" 
+				"spritesize" "0.5 0.0 19 24"
+				"spriterandomscale" "0.2"
+				"amount" "0.2"
+				"detailOrientation" 	"0"
+				"shape_angle"		"40"
+				"shape_size"		"0.01"
+				//"sway"			"0"
+			}
+			Brush1
+			{
+				"sprite_shape"		"cross"
+				"sprite" "219 0 254 248 512" 
+				"spritesize" "0.5 0.0 24 30"
+				"spriterandomscale" "0.2"
+				"amount" "0.1"
+				"detailOrientation" 	"0"
+				"shape_angle"		"40"
+				"shape_size"		"0.01"
+				//"sway"			"0"
+			}
+		}
+	}
+}
